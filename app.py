@@ -1,5 +1,5 @@
 import streamlit as st
-from agente import responder  # importa seu código
+from agente import responder
 
 st.set_page_config(page_title="Murilo Antonio da GFK", layout="wide")
 
